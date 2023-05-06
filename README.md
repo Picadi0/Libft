@@ -1,1 +1,1 @@
-This project help you understand how c language works, rewritten standard libraries functions.
+This project help you understand how c language works, rewritten standard C libraries functions.
