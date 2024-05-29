@@ -1,5 +1,5 @@
 ## Proje Açıklaması
-Libft, 42 okullarında öğrenim gören öğrencilerin C programlama dilindeki temel fonksiyonları öğrenip uygulayarak kendi kütüphanelerini oluşturmalarını amaçlayan bir projedir. Bu proje, C dilinde standart kütüphane fonksiyonlarını yeniden yazarak ve bazı ek yardımcı fonksiyonlar ekleyerek programlama becerilerini geliştirmeyi hedefler.
+Libft projesi C programlama dilindeki temel fonksiyonları öğrenip uygulayarak kendi kütüphanelerini oluşturmalarını amaçlayan bir projedir. Bu proje, C dilinde standart kütüphane fonksiyonlarını yeniden yazarak ve bazı ek yardımcı fonksiyonlar ekleyerek programlama becerilerini geliştirmeyi hedefler.
 
 ## İçerik
 Bu kütüphane aşağıdaki fonksiyonları içerir:
